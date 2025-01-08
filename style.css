@@ -11,3 +11,12 @@ h1 {
 p {
   font-size: 18px;
 }
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+nav a:hover {
+  color: #0056b3;
+}
